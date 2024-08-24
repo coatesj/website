@@ -1,9 +1,14 @@
 ---
-header:
-  caption: ""
-  image: ""
-title: Media coverage
-view: 2
+title: Writing
+cms_exclude: true
+
+# View.
+view: citation
+
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
 
 
