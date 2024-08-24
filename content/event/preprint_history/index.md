@@ -6,10 +6,10 @@ event_url: https://youtu.be/ugf4UwBnPBI?si=rcxA2XHZJMdTnk4z
 
 location: Virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 739 Balboa St
+  city: San Francisco
   region: CA
-  postcode: '94305'
+  postcode: '94121'
   country: United States
 
 summary: A brief history of peer review in academia
