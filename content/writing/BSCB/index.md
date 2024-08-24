@@ -1,10 +1,6 @@
 ---
-abstract: Physicists have been sharing their work for free as pre-prints since the early 1990s. However, it wasn’t until the launch of bioRxiv in 2013 that the biological science and biomedical communities began to adopt the use of preprints as a route for sharing new scientific advances. Sharing work as a preprint confers many advantages to
-both authors and readers in the scientific community, including quicker dissemination of new findings, free access, and the referenceable documentation of complet-ed work. Despite this, scepticism of preprints persists in some pockets of academia. Here, we describe the history and use of preprints to date, as well as recent innovations
-around preprint review and collation and how preprints might impact the landscape of science publishing in the
-future
+abstract: Physicists have been sharing their work for free as pre-prints since the early 1990s. However, it wasn’t until the launch of bioRxiv in 2013 that the biological science and biomedical communities began to adopt the use of preprints as a route for sharing new scientific advances. Sharing work as a preprint confers many advantages to both authors and readers in the scientific community, including quicker dissemination of new findings, free access, and the referenceable documentation of complet-ed work. Despite this, scepticism of preprints persists in some pockets of academia. Here, we describe the history and use of preprints to date, as well as recent innovations around preprint review and collation and how preprints might impact the landscape of science publishing in the future
 authors:
-#- Liam Brierley
 - admin
 date: "2022-12-10T00:00:00Z"
 #doi: "10.1371/journal.pbio.3001285"
