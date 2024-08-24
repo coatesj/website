@@ -1,5 +1,5 @@
 ---
-abstract: Since the first reported case of COVID19, cities across the world have shut down, people have stopped socialising and going to work, economies have taken a hit and there have been far too many deaths.
+abstract:
 - admin
 date: "2021-04-28T00:00:00Z"
 #doi: "10.1371/journal.pbio.3001285"
