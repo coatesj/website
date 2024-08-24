@@ -15,7 +15,7 @@ links:
   url: https://thenode.biologists.com/developing-preprints-in-developmental-biology/education/ 
 #projects:
 #- internal-project
-publication: "FEBS"
+publication: "The Node"
 publication_short: ""
 #publication_types:
 #- "0"

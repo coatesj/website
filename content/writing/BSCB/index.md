@@ -21,7 +21,7 @@ links:
   url: https://bscb.org/wp-content/uploads/2022/12/BSCB-Magazine-2022c-26-1-22.pdf
 #projects:
 #- internal-project
-publication: "FEBS"
+publication: "BSCB"
 publication_short: ""
 #publication_types:
 #- "0"
