@@ -14,7 +14,7 @@ main:
     url: /writing
     weight: 30
   - name: Talks
-    url: /#talks
+    url: /event
     weight: 40
   - name: In the Media
     url: /media
