@@ -13,7 +13,7 @@ main:
   - name: Writing
     url: /writing
     weight: 30
- - name: Talks
+  - name: Talks
     url: /#talks
     weight: 40
   - name: In the Media
