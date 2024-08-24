@@ -2,10 +2,10 @@
 title: Example Talk
 
 event: Hugo Blox Builder Conference
-#event_url: https://example.org
+event_url: https://example.org
 
-#location: Hugo Blox Builder HQ
-#address:
+location: Hugo Blox Builder HQ
+address:
 #  street: 450 Serra Mall
 #  city: Stanford
 #  region: CA
