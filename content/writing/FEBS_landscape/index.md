@@ -21,7 +21,7 @@ publication_short: ""
 #- "0"
 publishDate: "2024-06-10T00:00:00Z"
 #slides: example
-summary:On this 'landscaping article' the authors explore the history of preprints in the life sciences, investigate how the fields of Biochemistry and Molecular Biology are using preprints now, and place those fields in the context of the wider bioRxiv data. 
+summary: In this 'landscaping article' the authors explore the history of preprints in the life sciences, investigate how the fields of Biochemistry and Molecular Biology are using preprints now, and place those fields in the context of the wider bioRxiv data. 
 tags:
 - preprints
 - journal clubs
