@@ -27,7 +27,7 @@ links:
 publication: "PLOS Biology"
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2022-02-01T00:00:00Z"
 #slides: example
 summary: We investigated how preprints compare to their published versions for preprints posted in the first 4 months of the 2020 COVID-19 pandemic
