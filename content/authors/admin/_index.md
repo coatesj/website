@@ -20,12 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Director | [Preprints in Motion host](http://preprintsinmotion.com/) | [Links](https://linktr.ee/jacoates)
+role: Associate Director | 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: ASAPbio
     url: https://asapbio.org
+   - name: Links
+    url: https://linktr.ee/jacoates
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,8 +37,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/JACoates
-  - icon: fas/book-open
-    url: https://prelights.biologists.com/profiles/coatesj/
   - icon: brands/github
     url: https://github.com/coatesj
   - icon: brands/linkedin
