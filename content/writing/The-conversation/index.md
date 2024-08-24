@@ -1,9 +1,5 @@
 ---
-abstract: Since the first reported case of COVID-19, cities across the world have shut down, people have stopped socialising and going to work, economies have taken a hit and there have been far too many deaths. But at the same time the scientific community has come together and produced an immense amount of knowledge on the virus, developing multiple vaccines in less than a year.
-
-This has been possible because scientists have rapidly shared their research on COVID-19, and preprints – scientific papers that haven’t been formally reviewed – have proved essential in this effort. In a new piece of research, my colleagues and I found that the pandemic has resulted in scientists increasing the use of preprints to release findings, and that these papers are also being read more frequently.
-
-This has also produced a cultural shift in how preprints are used and viewed by society. The media and the public are now far more likely to encounter and discuss preprints and their findings on a daily basis.
+abstract: Since the first reported case of COVID-19, cities across the world have shut down, people have stopped socialising and going to work, economies have taken a hit and there have been far too many deaths. But at the same time the scientific community has come together and produced an immense amount of knowledge on the virus, developing multiple vaccines in less than a year. This has been possible because scientists have rapidly shared their research on COVID-19, and preprints – scientific papers that haven’t been formally reviewed – have proved essential in this effort. In a new piece of research, my colleagues and I found that the pandemic has resulted in scientists increasing the use of preprints to release findings, and that these papers are also being read more frequently. This has also produced a cultural shift in how preprints are used and viewed by society. The media and the public are now far more likely to encounter and discuss preprints and their findings on a daily basis.
 #- Liam Brierley
 - admin
 date: "2021-04-28T00:00:00Z"
