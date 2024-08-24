@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: Op-eds, thought pieces and other writing
 cms_exclude: true
 
 # View.
