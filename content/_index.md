@@ -30,16 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
- # - block: markdown
+  - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+       My scientific interests in immune cell biology (with a heavy focus on microscopy) and meta-research (the science of how we do science). In addition, I have active interests in science communication, open-access, career development and relationship building. I host the Preprints in Motion podcast where we highlight ECRs and the benefits of open-science and I founded the UK & EU postdoc slack group to provide a community for postdocs. Since 2016, I have directly managed ~40 people and successfully led multiple teams; in-person and remotely. 
     design:
       columns: '1'
   - block: collection
