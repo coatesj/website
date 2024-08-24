@@ -3,7 +3,7 @@ abstract: Journal clubs! Almost every department and lab group has one. These cl
 authors:
 #- Liam Brierley
 - admin
-date: "2042-06-25T00:00:00Z"
+date: "2024-06-25T00:00:00Z"
 #doi: "10.1371/journal.pbio.3001285"
 featured: false
 image:
@@ -19,7 +19,7 @@ publication: "FEBS"
 publication_short: ""
 #publication_types:
 #- "0"
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2024-06-25T00:00:00Z"
 #slides: example
 summary: Do you run a journal club? The non-profit, scientist-driven ASAPbio (Accelerating Science and Publication in Biology) promotes transparency and innovation in life science communication, and they are offering funding to organise preprint review clubs. Find out about their other activities, too. 
 tags:
