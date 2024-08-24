@@ -20,7 +20,7 @@ main:
     url: /media
     weight: 50
   - name: Podcast
-    url: /podcast
+    url: https://preprintsinmotion.wordpress.com
     weight: 60
   - name: Teaching
     url: teaching/
