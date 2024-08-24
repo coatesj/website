@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       My scientific interests in immune cell biology (with a heavy focus on microscopy) and meta-research (the science of how we do science). In addition, I have active interests in science communication, open-access, career development and relationship building. I host the Preprints in Motion podcast where we highlight ECRs and the benefits of open-science and I founded the UK & EU postdoc slack group to provide a community for postdocs. Since 2016, I have directly managed ~40 people and successfully led multiple teams; in-person and remotely. 
+       My scientific interests are focussed on immune cell biology (with a heavy focus on microscopy) and meta-research (the science of how we do science). In addition, I have active interests in science communication, open-access and research culture. I host the Preprints in Motion podcast where we highlight ECRs and the benefits of open-science and I founded the UK & EU postdoc slack group to provide a community for postdocs. 
     design:
       columns: '1'
   - block: collection
