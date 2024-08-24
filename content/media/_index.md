@@ -1,17 +1,3 @@
----
-title: Writing
-cms_exclude: true
-
-# View.
-view: list
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
-
-
 The following are a collection of links to various media outlets covering or mentioning our work investigating the role of preprints in the COVID-19 pandemic, [Preprinting the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.05.22.111294v3.full) and [Preprints in motion](https://www.biorxiv.org/content/10.1101/2021.02.20.432090v1.full): 
 
 ‘Preliminary research’ on COVID has been surprisingly solid [Popular Science](https://www.popsci.com/science/preprints-versus-published-studies/)
