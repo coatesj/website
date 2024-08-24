@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Director | 
+role: Associate Director 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
