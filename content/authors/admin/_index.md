@@ -26,7 +26,7 @@ role: Associate Director |
 organizations:
   - name: ASAPbio
     url: https://asapbio.org
-   - name: Links
+  - name: Links
     url: https://linktr.ee/jacoates
 
 # Social network links
