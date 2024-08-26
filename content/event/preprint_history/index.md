@@ -17,9 +17,9 @@ abstract: 'Peer review is often taken as the gold-standard in academia and used 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-131T13:00:00Z'
+date: '2024-03-13T13:00:00Z'
 #date_end: '2024-03-13T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2024-03-13T00:00:00Z'
