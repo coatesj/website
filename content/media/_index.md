@@ -60,3 +60,12 @@ Other media appearances
 Lab leaders wrestle with paucity of postdocs [Nature](https://www.nature.com/articles/d41586-022-02781-x)
 
 How Different Are Preprints from their Published Versions? [Research Square](https://www.researchsquare.com/blog/how-different-are-preprints-from-their-published-versions)
+
+Podcast appearances 
+---------------------------
+
+Grey Lit Cafe. [Understanding preprints](https://bit.ly/grey-lit-podcast)
+
+PharmaCast. [An Open Research Overview](https://podcasts.apple.com/us/podcast/research-005-an-open-research-overview/id1650952366?i=1000629615785)
+
+ReproducibiliTea. [Release pending](https://open.spotify.com/show/419uZZhIYVe8RM3Hbv35aX)
