@@ -1,13 +1,13 @@
 ---
-title: Preprints & Africa
-summary: 6 sessions focussed on preprints 
-date: 2023-10-24
+title: AREN 2024
+summary: Africa Reproducibility Network's Open Science training
+date: 2024-10-24
 type: docs
 math: false
 tags:
   - preprints
 image:
-  caption: 'Africa Reproducibility Network's Open Science training'
+  caption: 'AREN 2024'
 ---
 
 I was invited to teach 6 sessions on preprints as part of the Africa Reproducibility Network's Open Science training in 2024. The syllabus was designed to cover the basics of preprints, brief history of publishing and peer review and provide students with a greater practical understanding of posting and using preprints.
