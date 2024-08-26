@@ -54,7 +54,8 @@ Covidpreprints.com website [eurekalert](https://www.eurekalert.org/pub_releases/
 
 Why You Need to Know About Preprints [Psychology Today](https://www.psychologytoday.com/us/blog/misinformation-desk/202208/why-you-need-know-about-preprints)
 
-Other media appearances & writing
+Other media appearances 
+---------------------------
 
 Lab leaders wrestle with paucity of postdocs [Nature](https://www.nature.com/articles/d41586-022-02781-x)
 
