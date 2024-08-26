@@ -1,7 +1,7 @@
 ---
 title: Preprints & Africa
 summary: 6 sessions focussed on preprints 
-date: 2023-10-24
+date: 2023-04-01
 type: docs
 math: false
 tags:
