@@ -1,7 +1,7 @@
 ---
 title: ASAPbio Fellows 2023
 summary: The 2023 ASAPbio Fellows Program covered preprints and advocacy basics 
-date: 2023-10-24
+date: 2023-06-01
 type: docs
 math: false
 tags:
