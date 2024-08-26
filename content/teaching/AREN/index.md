@@ -6,7 +6,6 @@ type: docs
 math: false
 tags:
   - preprints
-  - africa
 image:
   caption: 'Africa Reproducibility Network's Open Science training'
 ---
