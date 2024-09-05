@@ -24,7 +24,7 @@ Preprints halten Überprüfung meist stand [ORF](https://science.orf.at/stories/
 
 How different are preprints from their published versions? Two studies have some answers [The Journalists Resource](https://journalistsresource.org/health/two-studies-examine-preprints/)
 
-Covid-19 changes the face of preprints [Research Professional](https://www.researchprofessionalnews.com/rr-news-world-2021-4-covid-19-changes-the-face-of-preprints/)
+Covid-19 changes the face of preprints [Research Professional News](https://www.researchprofessionalnews.com/rr-news-world-2021-4-covid-19-changes-the-face-of-preprints/)
 
 How pandemic-driven preprints are driving open scrutiny of research [Horizon](https://horizon.scienceblog.com/1682/how-pandemic-driven-preprints-are-driving-open-scrutiny-of-research/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29)
 
@@ -58,6 +58,10 @@ Other media appearances
 ---------------------------
 
 Lab leaders wrestle with paucity of postdocs [Nature](https://www.nature.com/articles/d41586-022-02781-x)
+
+End UKRI funds for open access publishing, urges report [Times Higher Education](https://www.timeshighereducation.com/news/end-ukri-funds-open-access-publishing-urges-think-tank-report)
+
+Think tank urges academic publishing reform to save £30m [Research Professional News](https://www.researchprofessionalnews.com/rr-news-uk-open-access-2024-9-think-tank-urges-academic-publishing-reform-to-save-30m/)
 
 How Different Are Preprints from their Published Versions? [Research Square](https://www.researchsquare.com/blog/how-different-are-preprints-from-their-published-versions)
 
