@@ -12,7 +12,7 @@ image:
   preview_only: false
 links:
 - name: Full text
-  url: https://network.febs.org/posts/journal-clubs-2-0-an-update-for-the-21st-century
+  url: https://network.febs.org/posts/preprints-catalysts-in-the-publishing-revolution
 #projects:
 #- internal-project
 publication: "FEBS"
