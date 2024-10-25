@@ -160,8 +160,10 @@ awards:
 
 ## About Me
 
-Leading advocate for academic reform with over 10 years’ experience in immunology and metascience and 5+ years’ experience in science communication including podcasting and writing for scientific, lay and professional audiences. Significant experience in advocacy, network building and relationship cultivation with stakeholders across academia, publishing and industry. Track record of international project management and collaboration. 8 years’ experience advocating for preprint usage and open science adoption through talks, writing, research and community leadership.
+Leading advocate for academic reform with over 10 years’ experience in immunology and metascience and 5+ years’ experience in science communication including podcasting and writing for scientific, lay and professional audiences. Significant experience in advocacy, network building and relationship cultivation with stakeholders across academia, publishing and industry and a track record of international project management and collaboration. 8 years’ experience advocating for preprint usage and open science adoption through talks, writing, research and community leadership.
  
 I have featured on international radio stations (BBC Radio 4, ORF & German National radio) to communicate the importance of preprints in addition to having written for outlets such as The Scientist and the British Society for Cell Biology. My work has been covered by a wide range of news organisations over the past 2 years. I have also contributed to numerous journalistic pieces in outlets including The Economist, The Scientist and Nature on topics from open science to academic culture. 
 
-Outside of work I enjoy climbing, photography, fine-dining, guitars, comedy, live-music and adrenaline-fueled adventures.
+I am currently on the Advisory boards of Europe PMC, eiRxiv and AREN (Afrcia Reproducibility Network).  
+
+Outside of work I enjoy climbing, photography, fine-dining, guitars, comedy, live-music and adrenaline-fueled adventures; though now mostly all superceded by my adorable dog, Jessie.
