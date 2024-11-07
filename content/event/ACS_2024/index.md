@@ -1,5 +1,5 @@
 ---
-title: Preprints and the changing landscape of biomedical publishing
+title: ASAPbio strategic directions for 2024 and beyond
 
 event: American Chemical Society
 event_url: 
