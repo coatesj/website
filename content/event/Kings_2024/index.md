@@ -12,8 +12,8 @@ address:
   postcode: '94121'
   country: United States
 
-summary: An overview of ASAPbio programming
-abstract: 'A presentation on the ASAPbio vision for scholarly communication'
+summary: Preprints as a powerful tool for ECRs
+abstract: 'ECRs face numerous career challenges, mamy of which are a result of the traditional publishing process. This process harms ECR careers as it is slow, laborious and biased. Preprints represent a route towards greater equity and a fairer academic system. By removing gatekeepers and delays, preprints significantly benefit ECR career advancement.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
