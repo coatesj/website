@@ -43,8 +43,8 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://bit.ly/OASPA-2024-slides'
-#url_video: 'https://youtu.be/jbAl4Xp4anE?si=AoV6Y8LTbizdMqmQ'
+url_slides: '[https://bit.ly/OASPA-2024-slides](https://docs.google.com/presentation/d/1kaWCaIfJ5Zvm0Gfxjlp2mj6oZ8Z8THwq/edit?usp=sharing&ouid=105973697463469114100&rtpof=true&sd=true)'
+#url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
