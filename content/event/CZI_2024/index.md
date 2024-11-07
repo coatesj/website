@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://bit.ly/kings_preprints_2024'
+url_slides: 'https://docs.google.com/presentation/d/1R3as4zOBaJAoR3uxL2yqjd597Lie5ElA/edit?usp=sharing&ouid=105973697463469114100&rtpof=true&sd=true'
 url_video: ''
 
 # Markdown Slides (optional).
