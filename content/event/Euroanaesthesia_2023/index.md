@@ -43,8 +43,8 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://bit.ly/Peer-Review-history-slides'
-#url_video: 'https://youtu.be/ugf4UwBnPBI?si=rcxA2XHZJMdTnk4z'
+url_slides: 'https://docs.google.com/presentation/d/1j565s2E-DuHYju--lVuIU8Umf9w0xHns/edit?usp=sharing&ouid=105973697463469114100&rtpof=true&sd=true'
+#url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
