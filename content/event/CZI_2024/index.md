@@ -1,7 +1,7 @@
 ---
-title: Preprints publishing that puts ECRs and science first
+title: ASAPbio preprints & community-focussed advocacy
 
-event: Kings College ECR Conference
+event: CZI Open Science Meeting
 event_url: 
 
 location: Virtual
@@ -12,12 +12,12 @@ address:
   postcode: '94121'
   country: United States
 
-summary: An overview of ASAPbio programming
-abstract: 'A presentation on the ASAPbio vision for scholarly communication'
+summary: The importance of community in advocacy
+abstract: 'An overview of the importance of community and people-first approaches in preprint advocacy'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-06T13:00:00Z'
+date: '2024-06-13T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
