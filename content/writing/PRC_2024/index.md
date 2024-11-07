@@ -27,7 +27,7 @@ tags:
 - preprints
 - publishing
 - academia
-title: 'Understanding the Publish-Review-Curate Model of Scholarly Communication'
+title: 'Understanding the Publish Review Curate Model of Scholarly Communication'
 #url_code: ''
 #url_dataset: '#'
 #url_pdf: ''
