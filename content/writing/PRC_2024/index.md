@@ -1,5 +1,5 @@
 ---
-abstract: The purpose of this brief is to provide an introduction to an increasingly popular way of communicating outputs of research: the Publish-Review-Curate (PRC) model. This model came into practice in the early 2000s, and it is now beginning to grow more rapidly. Here, we explain the model for the benefit of researchers, research funders, research institutions, and others in the scholarly communication ecosystem, and we provide data on uptake of the model to date. 
+abstract: The purpose of this brief is to provide an introduction to an increasingly popular way of communicating outputs of research: the Publish-Review-Curate model. This model came into practice in the early 2000s, and it is now beginning to grow more rapidly. Here, we explain the model for the benefit of researchers, research funders, research institutions, and others in the scholarly communication ecosystem, and we provide data on uptake of the model to date. 
 authors:
 - Katie Corker 
 - Ludo Waltman
