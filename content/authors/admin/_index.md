@@ -164,6 +164,6 @@ Leading advocate for academic reform with over 10 years’ experience in immunol
  
 I have featured on international radio stations (BBC Radio 4, ORF & German National radio) to communicate the importance of preprints in addition to having written for outlets such as The Scientist and the British Society for Cell Biology. My work has been covered by a wide range of news organisations over the past 2 years. I have also contributed to numerous journalistic pieces in outlets including The Economist, The Scientist and Nature on topics from open science to academic culture. 
 
-I am currently on the Advisory boards of Europe PMC, eiRxiv and AREN (Afrcia Reproducibility Network).  
+I am currently on the Advisory boards of [Europe PMC](https://europepmc.org/Governance), eiRxiv and [AREN](https://africanrn.org/international-advisory-board/) (Afrcia Reproducibility Network).  
 
 Outside of work I enjoy climbing, photography, fine-dining, guitars, comedy, live-music and adrenaline-fueled adventures; though now mostly all superceded by my adorable dog, Jessie.
