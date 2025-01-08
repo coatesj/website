@@ -3,7 +3,7 @@
 title: Jonny Coates
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Jonny Coates
 
 # Full name (for SEO)
 first_name: Jonny
@@ -35,8 +35,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jonny.coates@igdore.org'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/JACoates
   - icon: brands/github
     url: https://github.com/coatesj
   - icon: brands/linkedin
