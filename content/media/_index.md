@@ -68,8 +68,10 @@ How Different Are Preprints from their Published Versions? [Research Square](htt
 Podcast appearances 
 ---------------------------
 
-Grey Lit Cafe. [Understanding preprints](https://bit.ly/grey-lit-podcast)
+Research Culture Uncovered. [Preprints as a catalyst for change in research culture](https://player.captivate.fm/episode/c6d85950-0395-43be-9079-6f4b61cc2490/)
+
+ReproducibiliTea. [Preprint Review]([https://open.spotify.com/show/419uZZhIYVe8RM3Hbv35aX](https://open.spotify.com/episode/4r9P5un2eVJA9cY3mrX6Qg))
 
 PharmaCast. [An Open Research Overview](https://podcasts.apple.com/us/podcast/research-005-an-open-research-overview/id1650952366?i=1000629615785)
 
-ReproducibiliTea. [Release pending](https://open.spotify.com/show/419uZZhIYVe8RM3Hbv35aX)
+Grey Lit Cafe. [Understanding preprints](https://bit.ly/grey-lit-podcast)
