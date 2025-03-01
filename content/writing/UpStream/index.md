@@ -40,4 +40,3 @@ title: 'Understanding the Publish-Review-Curate Model of Scholarly Communication
 #url_paper_altmetrics: ''
 #projects:
 ---
-
