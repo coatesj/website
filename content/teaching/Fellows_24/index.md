@@ -14,11 +14,11 @@ image:
 
 The ASAPbio Fellows program is designed to provide Fellows with an overview of the current preprint landscape and future in addition to skills required to advocate for preprint adoption. 
 
-In 2024, the course featured 5 sessions, a Culture & Community track and a separate Projects track, running April-November for 45 Fellows across the world. Fellows produced slide decks and gave local talks about preprints. A reduced group of Fellows participated in 7 preprint-related projects.  
+In 2024, the course featured 5 sessions, a Culture & Community track and a separate Projects track, running April-November for 45 Fellows across the world. Fellows produced [slide decks](https://zenodo.org/records/14099009) and gave local talks about preprints. A reduced group of Fellows participated in [7 preprint-related projects](https://asapbio.org/2024-a-highly-productive-and-successful-fellows-cohort/).  
 
 ## Course Syllabus
 
-Session 1 - What's wrong with the current system 
+Session 1 - Orientation and introduction to preprints 
 
 Session 2 - History of preprints, the current landscape and the future
 
