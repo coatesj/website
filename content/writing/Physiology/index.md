@@ -3,7 +3,7 @@ abstract: In the fast-paced world of scientific discovery, rapid dissemination o
 authors:
 #- Liam Brierley
 - admin
-date: "2022-04-10T00:00:00Z"
+date: "2024-04-10T00:00:00Z"
 doi: "https://doi.org/10.36866/pn.133.14"
 featured: false
 image:
@@ -19,7 +19,7 @@ publication: "Physiology News Magazine"
 publication_short: ""
 #publication_types:
 #- "0"
-publishDate: "2022-04-10T00:00:00Z"
+publishDate: "2024-04-10T00:00:00Z"
 #slides: example
 summary:
 tags:
