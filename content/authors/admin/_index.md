@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Director 
+role: Executive Director 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ASAPbio
-    url: https://asapbio.org
+  - name: Rippling Ideas
+    url: 
   - name: LinkTree
     url: https://linktr.ee/jacoates
 
@@ -33,7 +33,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jonny.coates@igdore.org'
+    url: 'mailto:enquiries@ripplingideas.org'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/coatesj
@@ -48,9 +48,9 @@ interests:
 - Meta-research 
 - Open access and preprints
 - ECR training & development 
+- Improving academic culture
+- Trust in research
 - Immune cell biology
-- Innate immunology
-- Model organisms
 
 education:
   - area: PhD Immunology
@@ -72,11 +72,11 @@ education:
     date_end: 2013-09-01
     summary: |
 work:
-  - position: Associate Director
-    company_name: ASAPbio
+  - position: Executive Director
+    company_name: Rippling Ideas
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
