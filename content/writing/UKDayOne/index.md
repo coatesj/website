@@ -12,7 +12,7 @@ image:
   preview_only: false
 links:
 - name: Full text
-  url: https://ukdayone.org/briefings/reform-academic-publishing-to-unblock-innovation#section-3-1
+  url: https://britishprogress.org/uk-day-one/reform-academic-publishing-to-unblock-innovation
 #projects:
 #- internal-project
 publication: "UK Day One"
