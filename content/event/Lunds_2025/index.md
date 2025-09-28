@@ -12,7 +12,7 @@ address:
   postcode: '94121'
   country: United States
 
-summary: This webinar will focus on perspectives on preprints in medicine within the context of scientific publishing. Specifically, it will highlight their potential to accelerate the dissemination of knowledge, boost collaboration and increase researchers' visibility. 
+summary: This webinar will focus on perspectives on preprints in medicine within the context of scientific publishing. Specifically, it will highlight their potential to accelerate the dissemination of knowledge, boost collaboration and increase researchers visibility. 
 
 We are pleased to present two speakers who will share their insights on preprints in medicine.
 
