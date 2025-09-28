@@ -1,5 +1,5 @@
 ---
-title: Preprints in Medicine: Their Impact on Visibility and Advancement of Science
+title: Preprints in Medicine Their Impact on Visibility and Advancement of Science
 
 event: Lunds Seminar series
 event_url: 
@@ -12,12 +12,13 @@ address:
   postcode: '94121'
   country: United States
 
-summary: This webinar will focus on perspectives on preprints in medicine within the context of scientific publishing. Specifically, it will highlight their potential to accelerate the dissemination of knowledge, boost collaboration and increase researchers visibility. Jonny Coates will provide an overview of preprints, including their history and current landscape, while dispelling common myths.
+summary: An overview of preprints in the life sciences past and present
+abstract: 'This webinar will focus on perspectives on preprints in medicine within the context of scientific publishing. Specifically, it will highlight their potential to accelerate the dissemination of knowledge, boost collaboration and increase researchers visibility. Jonny Coates will provide an overview of preprints, including their history and current landscape, while dispelling common myths.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-10-17T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
+#date_end: '2025-05-14T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -25,7 +26,6 @@ all_day: false
 
 authors:
   - admin
-
 
 tags: []
 
@@ -42,9 +42,10 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
-url_pdf: ''
+#url_pdf: ''
 url_slides: 'https://bit.ly/preprints_past_present_slides'
-url_video: ''
+#url_video: ''
+
 ---
 
 
