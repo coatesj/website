@@ -34,7 +34,7 @@ featured: false
 
 image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  focal_point: Left
 
 #links:
 #  - icon: twitter
@@ -42,24 +42,10 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
-url_pdf: ''
+#url_pdf: ''
 url_slides: 'https://docs.google.com/presentation/d/1HfBVA4gCkyOdcRA03Yqn-4BJSLy-NmMG/edit?usp=sharing&ouid=105973697463469114100&rtpof=true&sd=true'
-url_video: ''
+#url_video: ''
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - preprints
 ---
 
 
