@@ -12,8 +12,8 @@ address:
   postcode: '94121'
   country: United States
 
-summary: PRC is an emerging model as a potential future for scientific publishing
-abstract: 'Over the past 10 years preprints have become more accepted within the life sciences, with traditional publishers incorporating preprints into their workflows and amazing initiatives arising such as preprint peer review services. This is beginning to demonstrate the potential of a new way of scientific communication. In the next 10 years, the challenge will be to increase the adoption of this publish-review-curate model of publishing which places preprints at the heart of scientific communication. This talk will discuss the role of preprints in this model and the importance of detangling traditional publishing.'
+summary: An overview of preprints in the life sciences past and present
+abstract: 'This webinar will focus on perspectives on preprints in medicine within the context of scientific publishing. Specifically, it will highlight their potential to accelerate the dissemination of knowledge, boost collaboration and increase researchers visibility. Jonny Coates will provide an overview of preprints, including their history and current landscape, while dispelling common myths.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
