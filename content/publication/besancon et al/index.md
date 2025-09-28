@@ -31,7 +31,7 @@ tags:
 - preprints
 - publishing
 - Africa
-title: The status and challenges of preprint adoption in Africa
+title: Identification and categorization of iterative preprints in the life sciences
 url_code: "https://osf.io/ykqdh/"
 #url_dataset: ""
 url_pdf: https://osf.io/preprints/osf/sqeg4
