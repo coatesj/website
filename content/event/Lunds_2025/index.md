@@ -12,11 +12,7 @@ address:
   postcode: '94121'
   country: United States
 
-summary: This webinar will focus on perspectives on preprints in medicine within the context of scientific publishing. Specifically, it will highlight their potential to accelerate the dissemination of knowledge, boost collaboration and increase researchers visibility. 
-
-We are pleased to present two speakers who will share their insights on preprints in medicine.
-
-Jonny Coates will provide an overview of preprints, including their history and current landscape, while dispelling common myths.
+summary: This webinar will focus on perspectives on preprints in medicine within the context of scientific publishing. Specifically, it will highlight their potential to accelerate the dissemination of knowledge, boost collaboration and increase researchers visibility. Jonny Coates will provide an overview of preprints, including their history and current landscape, while dispelling common myths.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
