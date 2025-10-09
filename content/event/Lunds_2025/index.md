@@ -2,7 +2,7 @@
 title: Preprints in Medicine Their Impact on Visibility and Advancement of Science
 
 event: Lunds Seminar series
-event_url: 
+#event_url: 
 
 location: Virtual
 address:
@@ -22,7 +22,7 @@ date: '2025-10-17T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: '2024-03-13T00:00:00Z'
+#publishDate: '2025-10-17T13:00:00Z'
 
 authors:
   - admin
