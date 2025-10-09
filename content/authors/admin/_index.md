@@ -25,7 +25,7 @@ role: Executive Director
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Rippling Ideas
-    url: 
+    url: https://ripplingideas.org
   - name: LinkTree
     url: https://linktr.ee/jacoates
 
