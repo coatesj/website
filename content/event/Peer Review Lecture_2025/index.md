@@ -2,7 +2,7 @@
 title: Open Preprint Peer Review the future of peer review
 
 event: Indiana University
-event_url: 
+#event_url: 
 
 location: Virtual
 address:
@@ -17,7 +17,7 @@ abstract: 'Over the past 10 years preprints have become more accepted within the
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-13T13:00:00Z'
+date: '2025-03-27T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
