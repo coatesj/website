@@ -1,6 +1,6 @@
 ---
-title: ASAPbio Fellows 2024
-summary: The 2024 ASAPbio Fellows Program covered preprints and advocacy basics 
+title: ASAPbio Fellows 2025
+summary: The 2025 ASAPbio Fellows Program covered preprints and advocacy basics 
 date: 2025-03-01
 type: docs
 math: false
