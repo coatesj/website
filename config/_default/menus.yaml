@@ -22,6 +22,9 @@ main:
   - name: Podcast
     url: https://preprintsinmotion.wordpress.com
     weight: 60
+  - name: YouTube
+    url: https://www.youtube.com/@rippling_ideas/featured 
+    weight: 70
   - name: Teaching
     url: /teaching
-    weight: 70
+    weight: 80
