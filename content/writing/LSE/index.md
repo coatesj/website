@@ -14,7 +14,7 @@ links:
   url: https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/03/can-we-measure-trust-in-scientific-publications/
 #projects:
 #- internal-project
-publication: "Upsteam"
+publication: "LSE Impact Blog"
 publication_short: ""
 #publication_types:
 #- "0"
