@@ -65,7 +65,7 @@ Think tank urges academic publishing reform to save £30m [Research Professional
 
 How Different Are Preprints from their Published Versions? [Research Square](https://www.researchsquare.com/blog/how-different-are-preprints-from-their-published-versions)
 
-Podcast appearances 
+Podcast or video appearances 
 ---------------------------
 
 Research Culture Uncovered. [Preprints as a catalyst for change in research culture](https://player.captivate.fm/episode/c6d85950-0395-43be-9079-6f4b61cc2490/)
@@ -75,3 +75,7 @@ ReproducibiliTea. [Preprint Review]([https://open.spotify.com/show/419uZZhIYVe8R
 PharmaCast. [An Open Research Overview](https://podcasts.apple.com/us/podcast/research-005-an-open-research-overview/id1650952366?i=1000629615785)
 
 Grey Lit Cafe. [Understanding preprints](https://bit.ly/grey-lit-podcast)
+
+ACSE. [What does it cost when knowledge is not open?]([Understanding preprints](https://bit.ly/grey-lit-podcast)
+)
+
